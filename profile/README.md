@@ -35,8 +35,6 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-<br/>
-
 ## __🔵 Resources 📋📌__
 
 - __Repositories:__ 
