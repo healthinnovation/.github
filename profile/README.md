@@ -69,12 +69,12 @@ Multidisciplinary team focused on designing and evaluating innovative and access
   </tr>
 
   <tr>
-   <th style="background:black"><center><a href="http://132.72.155.230:3838/js/" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://www.oreilly.com/library/view/leafletjs-essentials/9781783554812/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://www.reconlearn.org/post/spatial-analysis-1-spanish.html" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://ucsd-reprod.netlify.app/#1" style="color:white;">Click aquí</a></center></th>
    <th style="background:black"><center><a href="https://locatepress.com/book/lcb" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://www.packtpub.com/product/learning-web-development-with-react-and-bootstrap/9781786462497" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://www.packtpub.com/product/learning-web-development-with-react-and-bootstrap/9781786462497" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://www.packtpub.com/product/learning-web-development-with-react-and-bootstrap/9781786462497" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://unmsm-2021.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://mceit-spatial.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://flacso-its.netlify.app/" style="color:white;">Click aquí</a></center></th>
   </tr>
 </table>  
 
