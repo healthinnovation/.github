@@ -37,26 +37,31 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 
 ## __🔵 Resources 📋📌__
 
-- __Repositories:__ 
-   - [https://github.com/healthinnovation](https://github.com/healthinnovation)
-   - [http://www.health-viz.com/](http://www.health-viz.com/)
+<details  style="font-family:Ubuntu;"> 
+	<summary>Repositories</summary>
+	<br>
+	<ul>
+	 <li>https://github.com/healthinnovation</li>
+    <li>http://www.health-viz.com/</li>
+	</ul>
+</details>
 
-- __Useful links:__
-   - [Health Innovation Lab](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/innov-lab)
-   
-   - [Institutional Repository](https://repositorio.upch.edu.pe/handle/20.500.12866/3660/browse?type=author&value=Carrasco-Escobar%2C+Gabriel)
+<details  style="font-family:Ubuntu;"> 
+	<summary>Useful links</summary>
+	<br>
+	<ul>
+	 <li><a href="https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/innov-lab"></a>Health Innovation Lab</li>
+    <li><a href="https://repositorio.upch.edu.pe/handle/20.500.12866/3660/browse?type=author&value=Carrasco-Escobar%2C+Gabriel"></a>Institutional Repository</li>
+    <li><a href="https://scholar.google.com/citations?user=qc8E3_EAAAAJ&hl=en&authuser=2"></a>Scientific production</li>
+    <li><a href="https://bookdown.org/gabc91/LIS_manual/"></a>Laboratory Manual</li>
+    <li><a href="https://healthinnovation.github.io/innovar/"></a>R package</li>
+    <li><a href="https://imtavh.cayetano.edu.pe/videos/innovacion-en-salud"></a>Brown bag seminar</li>
+	</ul>
+</details>
 
-   - [Scientific production](https://scholar.google.com/citations?user=qc8E3_EAAAAJ&hl=en&authuser=2)
-
-   - [Laboratory Manual](https://bookdown.org/gabc91/LIS_manual/) 
-
-   - [R package](https://healthinnovation.github.io/innovar/)
-
-   - [Brown bag seminar](https://imtavh.cayetano.edu.pe/videos/innovacion-en-salud)
-
-- __Courses:__ 
-
-<table  style="font-family:Ubuntu;">
+<details  style="font-family:Ubuntu;"> 
+	<summary>Courses</summary>
+   <table  style="font-family:Ubuntu;">
   <tr align="center">
    <th style="background-color:#110080;color:white"><center>Visualización y Análisis de datos geo-espaciales con R - Curso Brotes</center></th>
    <th style="background-color: #110080;color:white"><center>Reproducibility tools - UCSD</center></th>
@@ -74,6 +79,8 @@ Multidisciplinary team focused on designing and evaluating innovative and access
    <th style="background:black"><center><a href="https://mceit-spatial.netlify.app/" style="color:white;">Click aquí</a></center></th>
    <th style="background:black"><center><a href="https://flacso-its.netlify.app/" style="color:white;">Click aquí</a></center></th>
   </tr>
-</table>  
+</table>
+
+</details>
 
 ---
