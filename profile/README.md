@@ -1,16 +1,21 @@
-<h1 style="font-family:Ubuntu"><b>Hey, this is InnovaLab 👋</b></h1> 
+<h1 style="font-family:Ubuntu"><b>Hey, this is InnovaLab 👋</b></h1>
 
 ![healthinnovation team](https://static.wixstatic.com/media/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.jpg/v1/fill/w_641,h_401,al_c,q_80,usm_0.66_1.00_0.01/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.webp)
 
-## __🔵 About us 🧙‍♀️🧙‍♂️__
+## **🔵 About us 🧙‍♀️🧙‍♂️**
 
 <p style="font-family:Ubuntu;text-align: justify;" >
 Multidisciplinary team focused on designing and evaluating innovative and accessible technologies to improve people's health. It promotes the use of technologies and open data in order to lower implementation barriers, reproducibility and increase the impact of innovation proposals. Main lines of research include the development of diagnostic and detection systems, development of tools for environmental parameter detection, data science and big data applied to tropical diseases, and geospatial analysis of mobility and migration patterns.
 </p>
 
-## __🔵 Projects 💼📖__
+<p align="center">
+ <a href = "https://www.facebook.com/imt.innovalab">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://twitter.com/innovalab_imt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.instagram.com/innovalab_imt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.innovalab.info/"><img src="https://img.shields.io/badge/Innovalab_web-000?style=for-the-badge&logo=wix&logoColor=white"></a> <a href="https://linktr.ee/innov_lab"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=whit"></a>
+</p>
 
-<details  style="font-family:Ubuntu;"> 
+## **🔵 Projects 💼📖**
+
+<details  style="font-family:Ubuntu;">
 	<summary>DATA MANAGEMENT FOR CLINICAL TRIALS</summary>
 	<br>
 	<ul>
@@ -18,7 +23,7 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-<details style="font-family:Ubuntu;"> 
+<details style="font-family:Ubuntu;">
 	<summary>GEOESPACIAL DATA SCIENCE</summary>
 	<br>
 	<ul>
@@ -26,8 +31,7 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-
-<details  style="font-family:Ubuntu;"> 
+<details  style="font-family:Ubuntu;">
 	<summary>HIGH RESOLUTION MAPPING WITH DRONES AND ML</summary>
 	<br>
 	<ul>
@@ -35,9 +39,9 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-## __🔵 Resources 📋📌__
+## **🔵 Resources 📋📌**
 
-<details  style="font-family:Ubuntu;"> 
+<details  style="font-family:Ubuntu;">
 	<summary>Repositories</summary>
 	<br>
 	<ul>
@@ -46,7 +50,7 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-<details  style="font-family:Ubuntu;"> 
+<details  style="font-family:Ubuntu;">
 	<summary>Useful links</summary>
 	<br>
 	<ul>
@@ -59,7 +63,7 @@ Multidisciplinary team focused on designing and evaluating innovative and access
 	</ul>
 </details>
 
-<details  style="font-family:Ubuntu;"> 
+<details  style="font-family:Ubuntu;">
 	<summary>Courses</summary>
    <table  style="font-family:Ubuntu;">
   <tr align="center">
