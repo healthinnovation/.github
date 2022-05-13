@@ -1,4 +1,9 @@
-<h1 style="font-family:Ubuntu"><b>Hey, this is InnovaLab 👋</b></h1>
+<h1 align="left" style="font-family:Ubuntu">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey👋,This+is+Innovalab⚕️+&center=true&size=25">
+  </a>
+</h1>
+
 
 ![healthinnovation team](https://static.wixstatic.com/media/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.jpg/v1/fill/w_641,h_401,al_c,q_80,usm_0.66_1.00_0.01/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.webp)
 
