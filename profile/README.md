@@ -5,7 +5,7 @@
 </h1>
 
 
-![healthinnovation team](https://static.wixstatic.com/media/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.jpg/v1/fill/w_641,h_401,al_c,q_80,usm_0.66_1.00_0.01/6bf5a0_6808014a7f7241d6a6cfbce6204c5a83~mv2.webp)
+![healthinnovation team](https://gitlab.com/uploads/-/system/personal_snippet/4907299/4b7098b9bef84f741d755553c777cae3/team.gif)
 
 ## **🔵 About us 🧙‍♀️🧙‍♂️**
 
