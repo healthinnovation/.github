@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-
-![healthinnovation team](https://gitlab.com/uploads/-/system/personal_snippet/4907299/4b7098b9bef84f741d755553c777cae3/team.gif)
+![healthinnovation-team](https://gitlab.com/ambarja/db-innovalab-upch/-/raw/main/team.gif)
 
 ## **🔵 About us 🧙‍♀️🧙‍♂️**
 
